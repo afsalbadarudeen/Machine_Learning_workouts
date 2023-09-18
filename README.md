@@ -1,2 +1,2 @@
 # Machine_Learning_workouts
-Model building using various algorithms.
+EDA and Model building using various algorithms.
